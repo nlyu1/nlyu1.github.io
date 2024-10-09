@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xingjian (Nicholas) Lyu - Harvard College '25"
+title                    : "Xingjian (Nicholas) Lyu"
 title_separator          : "-"
 name                     : &name "Xingjian (Nicholas) Lyu"
 description              : &description "Hi, this is Nicholas."
