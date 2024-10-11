@@ -6,7 +6,7 @@
 
 main:
   - title: "Active Research"
-    url: /publications/
+    url: /active-research/
 
   - title: "Knowledge Base"
     url: /talks/    
