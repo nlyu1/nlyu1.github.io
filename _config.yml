@@ -12,7 +12,7 @@ title                    : "Xingjian (Nicholas) Lyu"
 title_separator          : "-"
 name                     : &name "Xingjian (Nicholas) Lyu"
 description              : &description "Nicholas' Personal Website"
-url                      : https://nlyu1.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nlyu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nlyu1/nlyu1.github.io"
 
