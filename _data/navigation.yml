@@ -9,10 +9,10 @@ main:
     url: /active-research/
 
   - title: "Knowledge Base"
-    url: /talks/    
+    url: /knowledge-base/    
 
   - title: "Past Research Projects"
-    url: /teaching/    
+    url: /past-research/
     
   # - title: "Portfolio"
   #  url: /portfolio/
