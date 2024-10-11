@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Active Research"
+  - title: "Active Research" # under the collection "publications"
     url: /active-research/
 
-  - title: "Knowledge Base"
+  - title: "Knowledge Base" # under the collection "talks"
     url: /knowledge-base/    
 
-  - title: "Past Research Projects"
+  - title: "Past Research Projects" # under the collection "teachings"
     url: /past-research/
     
   # - title: "Portfolio"
