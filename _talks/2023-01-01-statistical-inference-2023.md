@@ -6,6 +6,4 @@ permalink: /talks/2023-01-01-statistical-inference-2023
 venue: "Online"
 ---
 
-[More information here](Fall-2023/Stat-111/Notes/statistical-inference.pdf)
-
-This is a link to the Statistical Inference notes for 2023.
+[Link](Fall-2023/Stat-111/Notes/statistical-inference.pdf)

@@ -6,6 +6,4 @@ permalink: /talks/2024-01-01-analysis-boolean-functions-2024
 venue: "Online"
 ---
 
-[More information here](https://nlyu1.github.io/analysis-boolean-function)
-
-This is a link to the Analysis of Boolean Functions course for 2024.
+[Link](https://nlyu1.github.io/analysis-boolean-function)
