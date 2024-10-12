@@ -6,4 +6,4 @@ permalink: /talks/2023-01-01-statistical-inference-2023
 venue: "Online"
 ---
 
-[Link](Fall-2023/Stat-111/Notes/statistical-inference.pdf)
+[Link](https://github.com/nlyu1/Fall-2023/blob/main/Stat-111/Notes/Statistical%20Inference.pdf)
