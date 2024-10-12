@@ -2,7 +2,7 @@
 title: "Basic Category Theory (2023, PDF)"
 collection: talks
 type: "Link"
-permalink: /talks/2023-01-01-category-theory-2023
+permalink: /knowledge-base/2023-01-01-category-theory-2023
 venue: "Online"
 ---
 This is a set of links to Basic Category Theory materials covering functors, adjunction, and representables.

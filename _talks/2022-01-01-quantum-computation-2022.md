@@ -2,7 +2,7 @@
 title: "Quantum Computation and Information I (2022)"
 collection: talks
 type: "Link"
-permalink: /talks/2022-01-01-quantum-computation-2022
+permalink: /knowledge-base/2022-01-01-quantum-computation-2022
 venue: "Online"
 ---
 

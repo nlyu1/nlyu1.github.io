@@ -2,7 +2,7 @@
 title: "Classical Mechanics (2024)"
 collection: talks
 type: "Link"
-permalink: /talks/2024-01-01-classical-mechanics-2024
+permalink: /knowledge-base/2024-01-01-classical-mechanics-2024
 venue: "Online"
 ---
 
