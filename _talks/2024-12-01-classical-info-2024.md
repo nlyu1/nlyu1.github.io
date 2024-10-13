@@ -1,13 +1,14 @@
 ---
-title: "Classical Information Theory (2024)"
+title: "Classical Information Theory"
 collection: talks
 type: "Link"
 permalink: /knowledge-base/2024-12-01-classical-info-2024
 venue: "Online"
 ---
 
-Comprehensive [lecture and textbook notes](https://nlyu1.github.io/classical-info-theory) (in progress) for MIT 6.370 *Information Theory: from Coding to Learning*, 
+Comprehensive [course notes](https://nlyu1.github.io/classical-info-theory) (in progress) for MIT 6.370 *Information Theory: from Coding to Learning*, 
 taught by [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
+This is a fast-paced, graduate-level modern treatment of information theory. 
 
 Highlights of the course: 
 

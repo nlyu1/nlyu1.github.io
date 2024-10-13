@@ -1,14 +1,14 @@
 ---
-title: "Classical Mechanics (2024)"
+title: "Classical Mechanics"
 collection: talks
 type: "Link"
 permalink: /knowledge-base/2024-01-02-classical-mechanics-2024
 venue: "Online"
 ---
 
-[Teaching assistant material](https://nlyu1.github.io/classical-mechanics/) (in progress) of Harvard  *Physics 151: Mechanics* Fall '24, taught by Arthur Jaffe. 
+[Teaching assistant material](https://nlyu1.github.io/classical-mechanics/) (in progress) of Harvard  *Physics 151: Mechanics* Fall '24, taught by Arthur Jaffe. It provides a mathematical perspective on the boundary between classical and quantum mechanics, with applications ranging from symmetry principles to field theory.
 
-The course provides a mathematical introduction to classical mechanics, with emphasis on the symmetry-conservation duality as well as intuition for quantum constructions. The main deliverables are: 
+Prof Jaffe's *Mechanics* course, which has been taught for decades, features a mathematical introduction to classical mechanics with emphasis on the symmetry-conservation duality as well as intuition for quantum constructions. The main deliverables are: 
 
 1. Covariant versus action-extremization perspectives on Lagrangian mechanics. 
 2. Convex duality between Lagrangian and Hamiltonian mechanics; the Legendre transform. 
