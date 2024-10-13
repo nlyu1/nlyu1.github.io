@@ -26,9 +26,7 @@ This site is currently under maintenance. -->
 
 Todo list: 
 
-1. Bozen: change (active research, past research projects) to (research, projects) and update the links above. 
-2. Bozen: tell Nicholas how to embed notes in the webpage [reference](https://talk.jekyllrb.com/t/embed-pdf-in-github-pages/4527). Do the one for "statistical inference" as an example; this can also reference the template for "active research"
-3. Bozen (will be good to have but not necessary):find a hyperlink reference way to open a page (e.g. link to notes) in a new page instead. 
+
 4. Nicholas: update links to: 
    - QMII
    - Quantum information
