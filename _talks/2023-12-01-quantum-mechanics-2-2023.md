@@ -6,7 +6,7 @@ permalink: /knowledge-base/2023-12-01-quantum-mechanics-2-2023
 venue: "Online"
 ---
 
-[Course notes](https://nlyu1.github.io/files/Phy143b-Notes.pdf){:target="_blank"} of Harvard *Physics 143b: Quantum Mechanics II* (Fall 2023, Sonia Paban). Many constructions were 
+[Course notes](https://nlyu1.github.io/files/Phy143b-Notes.pdf){:target="_blank"} for *Physics 143b: Quantum Mechanics II* (Fall 2023, Sonia Paban) at Harvard. Many constructions were 
 later much better understood after taking [classical mechanics](https://nlyu1.github.io/knowledge-base/2024-01-02-classical-mechanics-2024){:target="_blank"}. 
 
 Quantum mechanics II focuses on the physical applications of 
