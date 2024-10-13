@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Nicholas Lyu"
-  pronouns         : "he/him"  
-  bio              : "Hi, I'm Nicholas. Welcome to my website."
+  pronouns         : 
+  bio              : "Senior at Harvard University."
   location         : "Cambridge, MA"
-  employer         : "Harvard University"
-  uri              : "https://nlyu1.github.io/"
+  employer         : 
+  uri              : 
   email            : "nicholaslyu@college.harvard.edu" 
 
   # Academic websites

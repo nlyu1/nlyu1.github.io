@@ -34,3 +34,5 @@ Todo list:
    - Quantum information
    - Theoretical computer science
 5. Update latest version of Miscellaneous notes (pdf). 
+6. Add experimental research projects. 
+7. Update CV. 
