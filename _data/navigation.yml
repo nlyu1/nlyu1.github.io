@@ -6,13 +6,13 @@
 
 main:
   - title: "Active Research" # under the collection "publications"
-    url: /active-research/
+    url: /research/
 
-  - title: "Knowledge Base" # under the collection "talks"
-    url: /knowledge-base/    
+  - title: "Notes" # under the collection "talks"
+    url: /Notes/    
 
-  - title: "Past Research Projects" # under the collection "teachings"
-    url: /past-research/
+  - title: "Projects" # under the collection "teachings"
+    url: /projects/
     
   # - title: "Portfolio"
   #  url: /portfolio/
