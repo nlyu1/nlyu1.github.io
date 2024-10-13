@@ -12,6 +12,7 @@
 # Requires: glob, getorg, geopy
 
 # docker run -p 4000:4000 --rm -v "/Users/nicholaslyu/Code/Hosted Notes/nlyu1.github.io":/usr/src/app jekyll-site
+# sudo docker run -p 4000:4000 --rm -v "/home/nlyu/Code/nlyu1.github.io":/usr/src/app jekyll-site
 
 import glob
 import getorg

@@ -6,9 +6,9 @@ permalink: /knowledge-base/2023-10-01-category-theory-2023
 venue: "Online"
 ---
 
-Self-study notes for Tom Leinster's Basic Category Theory, covering key concepts like basic definitions, adjunction, representables, and universal constructions.
+Self-study notes for Tom Leinster's *Basic Category Theory* Chapters 1-4, covering basic definitions, adjunction, representables, and universal constructions.
 
-My interest in category theory stems from studying MacLane and Birkhoff's Algebra (3rd ed). Category theory offers precise yet abstract tools to justify mathematical constructions by focusing on their unifying properties. It provides a broad perspective that applies across various fields. Key insights from this brief dip include:
+My interest in category theory stems from studying MacLane and Birkhoff's *Algebra*. Category theory offers precise yet abstract tools to justify mathematical constructions by focusing on their unifying properties. It provides a broad perspective that applies across various fields. Key insights from this brief dip include:
 
 1. Mathematical objects are understood through their relationships with other objects.
 2. Constructions are anchored in their universal properties.
