@@ -1,5 +1,5 @@
 ---
-title: "Basic Category Theory (2023)"
+title: "Basic Category Theory"
 collection: talks
 type: "Link"
 permalink: /knowledge-base/2023-10-01-category-theory-2023

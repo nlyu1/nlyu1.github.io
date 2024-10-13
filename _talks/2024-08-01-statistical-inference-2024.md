@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference (2024)"
+title: "Statistical Inference"
 collection: talks
 type: "Link"
 permalink: /knowledge-base/2024-08-01-statistical-inference-2024
