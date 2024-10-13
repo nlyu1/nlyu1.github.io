@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior pursuing a joint degree in physics and mathematics (with computer science secondary) at Harvard university. I am from Shanghai, China. 
+I am a senior pursuing a joint degree in physics and mathematics, with a computer science secondary, at Harvard university. 
 
 Research interests
 ======
@@ -16,9 +16,9 @@ This site is currently under maintenance.
 Table of contents
 ======
 
-1. See (link) for a list (only one so far) of my publications, their summary, and how they relate to my research interests. 
-2. See (projects) for my experimental research experience in experimental physics (neutral atom array) and offshoot projects. 
-3. I am an avid learner and note-taker. See notes (link) for a list of my course and self-study notes. 
+1. See (link) for a list (one so far) of my preprints, their summary, and how they relate to my research interests. 
+2. See (projects) for my experimental research experience in experimental physics-neutral atom array-and other offshoot projects. 
+3. I am an avid learner and note-taker. See notes (link) for a list of course and self-study notes. 
 
 <!-- Test Section
 ------
