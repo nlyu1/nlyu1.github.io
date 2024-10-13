@@ -7,7 +7,7 @@ venue: "Online"
 ---
 
 Comprehensive [course notes](https://nlyu1.github.io/classical-info-theory) (in progress) for MIT 6.370 *Information Theory: from Coding to Learning*, 
-taught by [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
+taught by (Fall 2024, [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/))
 This is a fast-paced, graduate-level modern treatment of information theory. 
 
 Highlights of the course: 
