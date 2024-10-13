@@ -6,7 +6,7 @@ permalink: /knowledge-base/2024-08-01-statistical-inference-2024
 venue: "Online"
 ---
 
-[Course notes](https://github.com/nlyu1/Fall-2023/blob/main/Stat-111/Notes/Statistical%20Inference.pdf){:target="_blank"} for *Stat 111: Statistical Inference* (Spring 2024); the bread and butter of classical inference. 
+[Course notes](https://nlyu1.github.io/files/Stat111-Notes.pdf){:target="_blank"} for *Stat 111: Statistical Inference* (Spring 2024); the bread and butter of classical inference. 
 
 Main content: 
 
