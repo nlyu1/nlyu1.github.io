@@ -6,6 +6,9 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+<!-- Placeholder explanation text under the header --> 
+<div class="explanation-text"> <p>This is a placeholder explanation text that provides an overview or context for the content below. You can replace this text with your own description or guidelines for readers.</p> </div>
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
