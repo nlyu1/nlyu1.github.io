@@ -14,4 +14,4 @@ My interest in category theory stems from studying MacLane and Birkhoff's *Algeb
 2. Constructions are anchored in their universal properties.
 3. Definitions and axioms are validated by the theorems they enable one to prove.
 
-These earlier notes are served in notion: [functors and natural transformations](https://living-crowley-d58.notion.site/Categories-Functors-Natural-Transformations-22085f9d472f45168044b3747f0cf96d), [adjunction](https://living-crowley-d58.notion.site/Adjoint-bce6a8a1046e4794ae7c9a09291da978?pvs=4), [representables](https://living-crowley-d58.notion.site/Representables-4ee977c16a08482da8e7e7e6f8570fda). Notes on the Yoneda lemma are lost. 
+These earlier notes are served in notion: [functors and natural transformations](https://living-crowley-d58.notion.site/Categories-Functors-Natural-Transformations-22085f9d472f45168044b3747f0cf96d){:target="_blank"}, [adjunction](https://living-crowley-d58.notion.site/Adjoint-bce6a8a1046e4794ae7c9a09291da978?pvs=4){:target="_blank"}, [representables](https://living-crowley-d58.notion.site/Representables-4ee977c16a08482da8e7e7e6f8570fda){:target="_blank"}. Notes on the Yoneda lemma are lost. 
