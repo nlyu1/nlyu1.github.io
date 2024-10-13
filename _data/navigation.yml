@@ -9,7 +9,7 @@ main:
     url: /research/
 
   - title: "Notes" # under the collection "talks"
-    url: /Notes/    
+    url: /notes/    
 
   - title: "Projects" # under the collection "teachings"
     url: /projects/
