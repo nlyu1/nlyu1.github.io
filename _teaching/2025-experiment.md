@@ -10,19 +10,23 @@ location: "City, Country"
 
 This is a description of 'experiment' section.
 
-##### Experimental Control System
+Experimental Control System
+------
 
 Description Placeholder.
 [Link](https://github.com/Semeghini-Lab/NI-experiment-control){:target="_blank"}
 
-##### COMSOL Electromagnetism Simulation
+COMSOL Electromagnetism Simulation
+------
 
 Description Placeholder.
 
-##### AOM Double-pass With Topica 399nm Laser
+AOM Double-pass With Topica 399nm Laser
+------
 
 Description Placeholder.
 
-##### Precision Measurement
+Precision Measurement
+------
 
 Description Placeholder.
