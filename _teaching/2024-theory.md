@@ -10,7 +10,7 @@ location: "City, Country"
 
 This is a description of 'Theory' section.
 
-Free Algebra Simulation
-#####
+##### Free Algebra Simulation
+
 Description Placeholder.　Need to write readme
 [Link](https://github.com/nlyu1/FreeAlgebra){:target="_blank"}
