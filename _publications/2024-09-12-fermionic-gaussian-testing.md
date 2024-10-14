@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-09-12-fermionic-gaussian-testing
 excerpt: 'We explore the properties of fermionic convolution defined by fermionic Gaussian unitary. A key finding is the purity invariance of pure Gaussian states under this convolution. Leveraging this property, we propose an efficient protocol to test the fermionic Gaussianity of pure states by using 3 copies of the input states. Furthermore, we introduce a new family of measures called ``Non-Gaussian Entropy,'' designed to quantify the fermionic non-Gaussianity of states.'
 date: 2024-09-02
-venue: 'Journal 1'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2409.08180'
 citation: 'Lyu, X., & Bu, K. (2024). Fermionic Gaussian Testing and Non-Gaussian Measures via Convolution. arXiv preprint arXiv:2409.08180.'
 ---
