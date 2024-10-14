@@ -1,5 +1,5 @@
 ---
-title: "2. Theory"
+title: "Theory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /projects/theory

@@ -1,5 +1,5 @@
 ---
-title: "3. Final Projects (Previous Courses)"
+title: "Final Projects (Previous Courses)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /projects/final-projects

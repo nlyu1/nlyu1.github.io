@@ -1,5 +1,5 @@
 ---
-title: "1. Experiment"
+title: "Experiment"
 collection: teaching
 type: "Undergraduate course"
 permalink: /projects/experiment
