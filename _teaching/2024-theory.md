@@ -1,5 +1,5 @@
 ---
-title: "Theory"
+title: "2. Theory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /projects/theory
@@ -10,7 +10,7 @@ location: "City, Country"
 
 This is a description of 'Theory' section.
 
-Free Algebra Simulation
+a. Free Algebra Simulation
 ------
 
 Description Placeholder.　Need to write readme

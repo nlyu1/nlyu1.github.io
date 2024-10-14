@@ -1,5 +1,5 @@
 ---
-title: "Final Projects (Previous Courses)"
+title: "3. Final Projects (Previous Courses)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /projects/final-projects
@@ -10,14 +10,14 @@ location: "City, Country"
 
 This is a description of 'Final Projects' section.
 
-Physics 151 (Fall 2023) Koopman von Neumann theory (pdf)
+a. Physics 151 (Fall 2023) Koopman von Neumann theory (pdf)
 ------
 
 Description Placeholder.　Need to write readme
 [Link](https://github.com/nlyu1/Physics-151-F23-Final-Project/blob/main/Phy%20151%20Final%20Project.pdf){:target="_blank"}
 
 
-8.371 (Spring 2022): Hypergraph product of convolutional codes
+b. 8.371 (Spring 2022): Hypergraph product of convolutional codes
 ------
 
 Description Placeholder.　Need to write readme
