@@ -55,7 +55,30 @@ b. AOM double-pass with Topica 399nm laser (June, 2024)
 c. Precision Measurement with 1064nm laser (Sep - Oct, 2024)
 ------
 
-Description Placeholder.
+This project focuses on accurately measuring the thickness of the glass cell panes along the critical optical path of the tweezer setup. The measurement is performed by directing a tightly focused Gaussian beam (Rayleigh range ∼1μm) at the sample and identifying the focal plane by detecting the maximum intensity and coherence of the reflected light. Key takeaways: 
+
+1. *Optical design*: Calculating Gaussian beam parameters to achieve a ≈1μm deep focal spot using a 1064nm laser source and selecting appropriate components from Thorlabs.
+2. *Setup construction*: Involved fiber out-coupling, alignment of a 3cm-diameter beam, and using a beam profiling camera. 
+
+<br/>
+<figure>
+  <img src='/images/foursurface/4surface_design.png' alt='Illustrator design'>
+  <br/>
+  <img src='/images/foursurface/4surface_real.JPG' alt='Real image'>
+  <figcaption>Optical design (schematic) and the built setup: the "RIO" rectangle in the lower left represents the 1064nm laser source, while the black rectangle to the right is a Thorlabs XR50P translation mount equipped with a micrometer for precise adjustments. </figcaption>
+</figure>
+
+The video below records the reflected pattern during translation stage movement: the two Gaussian-like reflection patterns (approximately at 0:08 and 0:17 in the video) correspond to reflections from the first and second surfaces of the glass sample, respectively. The distinct reflection patterns obtained from the first and second surfaces of the test sample indicate successful identification of multiple interfaces.
+<br/>
+<figure>
+<video style="width: 100%; max-width: 800px;" controls>
+  <source src="/images/foursurface/4surface_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<img src='/images/foursurface/4surface_reflect1.png' alt='Reflection view 1'>
+<br/>
+<img src='/images/foursurface/4surface_reflect2.png' alt='Reflection view 2'>
+</figure>
 
 d. COMSOL simulation for electrode design (June, 2023)
 ------
