@@ -26,14 +26,20 @@ Key takeaways include:
     how basic physical components are assembled
     and classically controlled to facilitate (quantum) computation. 
 
+A screenshot from the experimental control report [slides](https://docs.google.com/presentation/d/1eohW2nniga9GMYLhZOr1nKc5namYMjXy6C4aJE0LCfA/edit?usp=sharing) which contain more details on the improvements relative to Labscript, and our design choices. 
+<br/>
+<figure>
+  <img src='/images/experiments/Expctrl_schematic.png' alt='Overview of experimental control system.'>
+  <figcaption>Optical design and the built-setup (with one AOM double-pass completed). </figcaption>
+</figure>
+
 
 a. Experimental Control System (June - Dec, 2023)
 ------
 
 Spearheaded the development of an 
 experimental control system in collaboration with Pavel Stroganov; 
-it is designed to meet the unique d
-emands of neutral atom array experiments. 
+it is designed to meet the unique demands of neutral atom array experiments. 
 Highlights: 
 
 1. Addresses key challenges such as streaming signal 
@@ -49,8 +55,18 @@ Highlights:
 The control system is being actively used in the Semeghini Lab and the Lukin group's Atom Array 2, 
 where it facilitates the design and execution of complex experimental sequences. 
 
-b. AOM double-pass with Topica 399nm laser (June, 2024)
+b. AOM double-pass with Topica 399nm laser (May - June, 2024)
 ------
+
+This project 
+
+<br/>
+<figure>
+  <img src='/images/experiments/SHGOpticalPath.png' alt='Illustrator design'>
+  <br/>
+  <img src='/images/experiments/SHGImage.png' alt='Real image'>
+  <figcaption>Optical design and the built-setup (with one AOM double-pass completed). </figcaption>
+</figure>
 
 c. Precision Measurement with 1064nm laser (Sep - Oct, 2024)
 ------
@@ -62,9 +78,9 @@ This project focuses on accurately measuring the thickness of the glass cell pan
 
 <br/>
 <figure>
-  <img src='/images/foursurface/4surface_design.png' alt='Illustrator design'>
+  <img src='/images/experiments/4surface_design.png' alt='Illustrator design'>
   <br/>
-  <img src='/images/foursurface/4surface_real.JPG' alt='Real image'>
+  <img src='/images/experiments/4surface_real.JPG' alt='Real image'>
   <figcaption>Optical design (schematic) and the built setup: the "RIO" rectangle in the lower left represents the 1064nm laser source, while the black rectangle to the right is a Thorlabs XR50P translation mount equipped with a micrometer for precise adjustments. </figcaption>
 </figure>
 
@@ -72,12 +88,12 @@ The video below records the reflected pattern during translation stage movement:
 <br/>
 <figure>
 <video style="width: 100%; max-width: 800px;" controls>
-  <source src="/images/foursurface/4surface_video.mp4" type="video/mp4">
+  <source src="/images/experiments/4surface_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<img src='/images/foursurface/4surface_reflect1.png' alt='Reflection view 1'>
+<img src='/images/experiments/4surface_reflect1.png' alt='Reflection view 1'>
 <br/>
-<img src='/images/foursurface/4surface_reflect2.png' alt='Reflection view 2'>
+<img src='/images/experiments/4surface_reflect2.png' alt='Reflection view 2'>
 </figure>
 
 d. COMSOL simulation for electrode design (June, 2023)
