@@ -26,13 +26,6 @@ Key takeaways include:
     how basic physical components are assembled
     and classically controlled to facilitate (quantum) computation. 
 
-A screenshot from the experimental control report [slides](https://docs.google.com/presentation/d/1eohW2nniga9GMYLhZOr1nKc5namYMjXy6C4aJE0LCfA/edit?usp=sharing) which contain more details on the improvements relative to Labscript, and our design choices. 
-<br/>
-<figure>
-  <img src='/images/experiments/Expctrl_schematic.png' alt='Overview of experimental control system.'>
-  <figcaption>Optical design and the built-setup (with one AOM double-pass completed). </figcaption>
-</figure>
-
 
 a. Experimental Control System (June - Dec, 2023)
 ------
@@ -53,19 +46,27 @@ Highlights:
     documentations for more detail. 
 
 The control system is being actively used in the Semeghini Lab and the Lukin group's Atom Array 2, 
-where it facilitates the design and execution of complex experimental sequences. 
+where it facilitates the design and execution of complex experimental sequences. See the the experimental control report [slides](https://nlyu1.github.io/files/Experimental_control_capstone.pdf){:target="_blank"} for more details on the improvements relative to Labscript and our design choices. 
+<br/>
+<figure>
+  <img src='/images/experiments/Expctrl_schematic.png' alt='Overview of experimental control system.'>
+</figure>
 
-b. AOM double-pass with Topica 399nm laser (May - June, 2024)
+b. AOM double-pass with Toptica 399nm laser (May - June, 2024)
 ------
 
-This project 
+The goal of this project is to extract four separately-detuned beams from the [Toptica TA-SHG pro](https://www.toptica.com/products/tunable-diode-lasers/frequency-converted-lasers/ta-shg-pro) for 2D MOT cooling (-40MHz), 3D MOT cooling (-40MHz), probing (+0MHz), and Zeeman slowing (-580MHz), respectively. 
+Main skills: 
 
+1. Optical circuit design: familiarity with optical components, polarization, 
+    fiber coupling (key equation $$f=\pi \omega D/4\lambda$$, also see [reference](https://www.newport.com/medias/sys_master/images/images/h04/h2a/9131726962718/Tech-Note-14-Fiber-Coupling.pdf)), and AOM. 
+2. AOM double-pass: designing, identifying relevant parts, and implementing a cat's eye double-pass configuration. 
 <br/>
 <figure>
   <img src='/images/experiments/SHGOpticalPath.png' alt='Illustrator design'>
   <br/>
   <img src='/images/experiments/SHGImage.png' alt='Real image'>
-  <figcaption>Optical design and the built-setup (with one AOM double-pass completed). </figcaption>
+  <figcaption>Optical design and the built-setup (with one AOM double-pass completed); the first double-pass has 73.4% efficiency (at 0.4mW input). </figcaption>
 </figure>
 
 c. Precision Measurement with 1064nm laser (Sep - Oct, 2024)
