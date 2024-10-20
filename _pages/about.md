@@ -12,8 +12,8 @@ I am a senior pursuing a joint degree in physics and mathematics with a computer
 Organization
 ======
 
-1. [Theoretical research projects](/publications): overview and links to my theoretical research projects. 
-2. [Projects](/projects), including hands-on experience in quantum experimentation. 
+1. [Theoretical research](/publications): overview of my research publications. 
+2. [Experimental projects](/projects): summary of my hands-on experience in quantum experimentation. 
 3. [Notes and teaching materials](/talks): a collection of my notes from coursework, self-study, and teaching assistance; they offer a growing set of tools for tackling research problems. 
 
 Research interest

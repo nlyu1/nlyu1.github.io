@@ -20,7 +20,7 @@ Work experience
   * Harvard University. Cambridge, MA. 
   * June - Dec, 2024. 
 
-* Research Assistant for Semeghini Lab
+* Research Assistant at Semeghini Lab
   * Harvard University. Cambridge, MA. 
   * June - Dec, 2023. 
   
