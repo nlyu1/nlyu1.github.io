@@ -9,22 +9,18 @@ location: "Cambridge, Massachusetts"
 ---
 
 Since 2023, I have had the privilege of 
-being part of the [Semeghini Lab](https://semeghini.seas.harvard.edu/research-2/), 
+being part of the [Semeghini lab](https://semeghini.seas.harvard.edu/research-2/), 
 which aims to  build a dual-species Rubidium-Ytterbium neutral atom array 
 with continuous reloading. This experience has been instrumental in 
-shaping my understanding of the connection between physics and computation. 
-Key takeaways include: 
-
+shaping my understanding of the connection between physics and computation; it helped me gain: 
 1. <u>In-depth knowledge of experimental control systems</u>: 
-    whole-stack knowledge of the design, compilation, and the (asynchronous) 
+    whole-stack knowledge of the design, compilation, and (asynchronous) 
     physical execution of experimental sequences. Familiarity with 
     national-instrument systems. 
 2. <u>Experimental skills</u>: 
     designing and building optics; E&M simulation.  
 3. <u>High-level insight into system integration in the neutral atom platform</u>: 
-    the organization and main components of a neutral atom array; 
-    how basic physical components are assembled
-    and classically controlled to facilitate (quantum) computation. 
+    this include the organization and main components of a neutral atom array, as well as how basic physical components are assembled and classically controlled to facilitate (quantum) computation. 
 
 
 a. Experimental Control System (June - Dec, 2023)
@@ -34,7 +30,6 @@ Spearheaded the development of an
 experimental control system in collaboration with Pavel Stroganov; 
 it is designed to meet the unique demands of neutral atom array experiments. 
 Highlights: 
-
 1. Addresses key challenges such as streaming signal 
     generation for long-duration, high-resolution experiments and intuitive multi-device integration.
 2. An experiment-level abstraction for National Instrument (NI) hardware, 
@@ -43,10 +38,9 @@ Highlights:
 4. See the [repository](https://github.com/Semeghini-Lab/NI-experiment-control){:target="_blank"}, or 
     the experiment [execution](https://docs.rs/niexpctrl_backend/0.1.0/niexpctrl_backend/) 
     and [compiler](https://docs.rs/nicompiler_backend/0.3.0/nicompiler_backend) 
-    documentations for more detail. 
+    documentations for details. 
 
-The control system is being actively used in the Semeghini Lab and the Lukin group's Atom Array 2, 
-where it facilitates the design and execution of complex experimental sequences. See the the experimental control report [slides](https://nlyu1.github.io/files/Experimental_control_capstone.pdf){:target="_blank"} for more details on the improvements relative to Labscript and our design choices. 
+The control system is currently under active use and maintainance in the Semeghini Lab and Atom Array 2 group at Harvard, where it facilitates the design and execution of complex experimental sequences. See the the experimental control report [slides](https://nlyu1.github.io/files/Experimental_control_capstone.pdf){:target="_blank"} for more details on the improvements relative to Labscript and our design choices. 
 <br/>
 <figure>
   <img src='/images/experiments/Expctrl_schematic.png' alt='Overview of experimental control system.'>
@@ -56,8 +50,7 @@ b. AOM double-pass with Toptica 399nm laser (May - June, 2024)
 ------
 
 The goal of this project is to extract four separately-detuned beams from the [Toptica TA-SHG pro](https://www.toptica.com/products/tunable-diode-lasers/frequency-converted-lasers/ta-shg-pro) for 2D MOT cooling (-40MHz), 3D MOT cooling (-40MHz), probing (+0MHz), and Zeeman slowing (-580MHz), respectively. 
-Main skills: 
-
+My main takeaways: 
 1. Optical circuit design: familiarity with optical components, polarization, 
     fiber coupling (key equation $$f=\pi \omega D/4\lambda$$, also see [reference](https://www.newport.com/medias/sys_master/images/images/h04/h2a/9131726962718/Tech-Note-14-Fiber-Coupling.pdf)), and AOM. 
 2. AOM double-pass: designing, identifying relevant parts, and implementing a cat's eye double-pass configuration. 
@@ -73,7 +66,6 @@ c. Precision Measurement with 1064nm laser (Sep - Oct, 2024)
 ------
 
 This project focuses on accurately measuring the thickness of the glass cell panes along the critical optical path of the tweezer setup. The measurement is performed by directing a tightly focused Gaussian beam (Rayleigh range ∼1μm) at the sample and identifying the focal plane by detecting the maximum intensity and coherence of the reflected light. Key takeaways: 
-
 1. *Optical design*: Calculating Gaussian beam parameters to achieve a ≈1μm deep focal spot using a 1064nm laser source and selecting appropriate components from Thorlabs.
 2. *Setup construction*: Involved fiber out-coupling, alignment of a 3cm-diameter beam, and using a beam profiling camera. 
 
@@ -100,4 +92,15 @@ The video below records the reflected pattern during translation stage movement:
 d. COMSOL simulation for electrode design (June, 2023)
 ------
 
-Description Placeholder.
+This simulation project aims to assess the efficacy of cylindrical or disc-shaped electrodes to help offset stray DC fields, which cause Stark shifts. Key takeaways: 
+1. DC Electrical field simulation using COMSOL ([course link](https://www.comsol.com/blogs/course-modeling-electromagnetic-coils-in-comsol)), and denoise-capability estimation using least-squares. 
+2. Simulation (see [slides](https://nlyu1.github.io/files/Electrode_simulation.pdf) for details) reveals that the 16-pole cylinder is almost the same as the 8-pole cylinder; this helped inform our final electrode design below. 
+
+
+<br/>
+<figure>
+  <img src='/images/experiments/electrodesFinal.png' alt='Final electrode design'>
+  <br/>
+  <img src='/images/experiments/electrodesModel.png' alt='Electrode simulation model'>
+  <figcaption>Top: model of the finalized electrode design (credit: Yi Zhu). Below: COMSOL models of the two candidate designs.  </figcaption>
+</figure>

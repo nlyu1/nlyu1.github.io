@@ -16,9 +16,9 @@ Prof Jaffe's *Mechanics* course, which has been taught for decades, features a m
 4. Representation of the Lorentz group. 
 5. Field mechanics and local conservation. 
 
-This course was my first introduction to differential geometry and Lie theory. My final project (manuscript, slides) on Koopman von-Neumann theory (Fall '23) inspired later interests in: 
+This course was my first introduction to differential geometry and Lie theory. My [final project](/files/Phy_151_Final_Project.pdf) on Koopman von-Neumann theory (Fall '23) inspired my later interests in: 
 
-1. Qharacterizing the boundary between classical and quantum theory. 
+1. Exploring the boundary between classical and quantum theory. 
 2. Quantum phase space, later combined with interest in information theory. 
 3. The adjoint problem: characterizing possible dynamics of a composite system by observing its components. 
 
