@@ -55,11 +55,11 @@ My main takeaways:
     fiber coupling (key equation $$f=\pi \omega D/4\lambda$$, also see [reference](https://www.newport.com/medias/sys_master/images/images/h04/h2a/9131726962718/Tech-Note-14-Fiber-Coupling.pdf)), and AOM. 
 2. AOM double-pass: designing, identifying relevant parts, and implementing a cat's eye double-pass configuration. 
 <br/>
-<figure>
+<figure style="text-align: center;">
   <img src='/images/experiments/SHGOpticalPath.png' alt='Illustrator design'>
   <br/>
   <img src='/images/experiments/SHGImage.png' alt='Real image'>
-  <figcaption>Optical design and the built-setup (with one AOM double-pass completed); the first double-pass has 73.4% efficiency (at 0.4mW input). </figcaption>
+  <figcaption style="display: block; text-align: center; margin: 0 auto;">Optical design and the built-setup (with one AOM double-pass completed); the first double-pass has 73.4% efficiency (at 0.4mW input). </figcaption>
 </figure>
 
 c. Precision Measurement with 1064nm laser (Sep - Oct, 2024)
