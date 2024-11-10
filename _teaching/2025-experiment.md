@@ -70,11 +70,11 @@ This project focuses on accurately measuring the thickness of the glass cell pan
 2. *Setup construction*: Involved fiber out-coupling, alignment of a 3cm-diameter beam, and using a beam profiling camera. 
 
 <br/>
-<figure>
+<figure style="text-align: center;">
   <img src='/images/experiments/4surface_design.png' alt='Illustrator design'>
   <br/>
   <img src='/images/experiments/4surface_real.JPG' alt='Real image'>
-  <figcaption>Optical design (schematic) and the built setup: the "RIO" rectangle in the lower left represents the 1064nm laser source, while the black rectangle to the right is a Thorlabs XR50P translation mount equipped with a micrometer for precise adjustments. </figcaption>
+  <figcaption style="display: block; text-align: center; margin: 0 auto;">Optical design (schematic) and the built setup: the "RIO" rectangle in the lower left represents the 1064nm laser source, while the black rectangle to the right is a Thorlabs XR50P translation mount equipped with a micrometer for precise adjustments. </figcaption>
 </figure>
 
 The video below records the reflected pattern during translation stage movement: the two Gaussian-like reflection patterns (approximately at 0:08 and 0:17 in the video) correspond to reflections from the first and second surfaces of the glass sample, respectively. The distinct reflection patterns obtained from the first and second surfaces of the test sample indicate successful identification of multiple interfaces.
@@ -98,9 +98,9 @@ This simulation project aims to assess the efficacy of cylindrical or disc-shape
 
 
 <br/>
-<figure>
+<figure style="text-align: center;">
   <img src='/images/experiments/electrodesFinal.png' alt='Final electrode design'>
   <br/>
   <img src='/images/experiments/electrodesModel.png' alt='Electrode simulation model'>
-  <figcaption>Top: model of the finalized electrode design (credit: Yi Zhu). Below: COMSOL models of the two candidate designs.  </figcaption>
+  <figcaption style="display: block; text-align: center; margin: 0 auto;">Top: model of the finalized electrode design (credit: Yi Zhu). Below: COMSOL models of the two candidate designs.  </figcaption>
 </figure>

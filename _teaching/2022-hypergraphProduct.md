@@ -18,8 +18,8 @@ Main contents of the final project paper:
 4. The quantum syndrome-based Viterbi algorithm for convolutional codes is impractical since the trellis length (runtime is exponential in this) scales linearly with runtime. 
 
 <br/>
-<figure>
+<figure style="text-align: center;">
   <img src='/images/qHGPC.png' alt='Tanner Graph'>
-  <figcaption> The Tanner graph of a hypergraph-product convolutional code. 
+  <figcaption style="display: block; text-align: center; margin: 0 auto;"> The Tanner graph of a hypergraph-product convolutional code. 
   </figcaption>
 </figure>

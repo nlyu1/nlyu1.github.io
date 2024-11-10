@@ -19,7 +19,7 @@ Main takeaways:
 <br/>
 <figure style="text-align: center;">
   <img src='/images/coupled_harmonic_oscillator.png' alt='Overview of experimental control system.'>
-  <figcaption style="text-align: center;">Image of a coupled SHO from Wikipedia.</figcaption>
+  <figcaption style="display: block; text-align: center; margin: 0 auto;">Image of a coupled SHO from Wikipedia.</figcaption>
 </figure>
 
 
