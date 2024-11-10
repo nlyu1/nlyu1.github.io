@@ -11,43 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Physics and Mathematics, Harvard University, 2025 (expected)
+* Shanghai Starriver Bilingual School, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant for Physics 151: Mechanics
+  * Harvard University. Cambridge, MA. 
+  * June - Dec, 2024. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant at Semeghini Lab
+  * Harvard University. Cambridge, MA. 
+  * June - Dec, 2023. 
   
-Skills
+Achievements
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Kaggle competitions master](https://kaggle.com/roguekk007) (March, 2020). 
+* Google [Open Source Software Experts prize](https://www.kaggle.com/google-oss-expert-prize-winners) (April, 2022). 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Programming languages: Python, C++, Rust, Ocaml. 
+* Machine learning frameworks: Pytorch, JAX. 
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +50,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
