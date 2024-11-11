@@ -29,3 +29,6 @@ Building on a Lie algebra reduction identified by Knill in 2001, we obtain the f
 3. Displaced Gaussian unitaries are equivalent to nearest-neighbor matchgates *plus arbitrary single-qubit gate on the first line*.
 4. Efficient simulation can be conducted using Grassmann Gaussian integral overlap. 
 5. We proposed a unitary embedding of displaced Gaussian states and unitaries into even Gaussian counterparts. 
+
+Apart from its immediate contribution to fermionic Gaussian theory, 
+this work sheds light on how super-selection constraints presents themselves mathematically through commutativity requirements, and provides one valuable example to generalize the existing theory beyond the parity constraint. <span style="color: #6A8EAE;">The fermionic example is an important case-study for the more general Gaussian theories of parafermions, or even abelian and non-abelian anyons we wish to later pursue. </span>
