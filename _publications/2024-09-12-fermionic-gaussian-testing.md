@@ -10,7 +10,7 @@ paperurl: 'https://arxiv.org/abs/2409.08180'
 citation: 
 ---
 
-Recent works in quantum computation has recognized that Gaussianity is key to the classical simulation of quantum systems. This is supported by two celebrated results: 
+Recent works in quantum computation have recognized that Gaussianity is key to the classical simulation of quantum systems. This is supported by two celebrated results: 
 
 1. The <u>Gottesmann-Knill theorem</u>: classical simulation of discrete bosonic Gaussian circuits. Stabilizer states can be viewed as discrete bosonic Gaussian states and Clifford unitaries Gaussian unitaries. 
     - Discrete bosonic Gaussian computation corresponds to the mathematical structure of *abelian (sub)groups*. 
