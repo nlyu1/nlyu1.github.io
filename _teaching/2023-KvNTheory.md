@@ -21,10 +21,3 @@ Main takeaways:
   <img src='/images/coupled_harmonic_oscillator.png' alt='Overview of experimental control system.'>
   <figcaption style="display: block; text-align: center; margin: 0 auto;">Image of a coupled SHO from Wikipedia.</figcaption>
 </figure>
-
-
-b. 8.371 (Spring 2022): Hypergraph product of convolutional codes
-------
-
-Description Placeholder.　Need to write readme
-[Link](https://github.com/nlyu1/Fall-2024/blob/main/Misc/8_371_final_project_hypergraph_product_convolutional_code.pdf){:target="_blank"}
