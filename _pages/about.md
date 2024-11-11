@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior pursuing a joint degree in physics and mathematics with a computer science secondary at Harvard university. 
+I am a senior pursuing a degree in physics with computer science secondary at Harvard university. 
 
 Organization
 ======
@@ -15,6 +15,7 @@ Organization
 1. [Theoretical research](/publications): overview of my research publications. 
 2. [Experimental projects](/projects): summary of my hands-on experience in quantum experimentation. 
 3. [Notes and teaching materials](/talks): a collection of my notes from coursework, self-study, and teaching assistance; they offer a growing set of tools for tackling research problems. 
+4. [CV](/files/XLyu_Resume_1110.pdf): detailed contents can all be found on this site. 
 
 Research interest
 ======
