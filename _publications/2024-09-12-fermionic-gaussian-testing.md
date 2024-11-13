@@ -37,3 +37,5 @@ Key perspectives in addition to the technical results:
 3. Quantum generalizations highlight the additional perspective of *efficient-computability* on Gaussian forms, an aspect missing from a classical understanding. 
    - Gaussian forms lie at the intersection of physics, computing, and information. 
    - This suggests the possibility of <u>identifying novel frameworks for classical simulation by inspecting other particles</u> (e.g. non-abelian anyons). 
+
+My advisor, Kaifeng Bu, [presented this project](https://www.youtube.com/watch?v=hvpsVLSV3i8) within the larger context of convolution and universal Gaussian testing--including continuous and discrete bosonic systems--at Harvard's [mathematical picture language seminar](https://mathpicture.fas.harvard.edu/seminar). 
