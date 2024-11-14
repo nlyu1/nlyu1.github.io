@@ -11,10 +11,10 @@ main:
   - title: "Notes" # under the collection "talks"
     url: /notes/    
 
-  - title: "Projects" # under the collection "teachings"
-    url: /projects/
+  # - title: "Projects (Deprecated)" # under the collection "teachings"
+  #   url: /projects/
     
-  - title: "Projects (New)" # under the collection "teachings"
+  - title: "Projects" # under the collection "portfolio"
     url: /projects-new/
         
   #- title: "Blog Posts"
