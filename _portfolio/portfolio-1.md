@@ -6,6 +6,7 @@ which aims to  build a dual-species Rubidium-Ytterbium neutral atom array
 with continuous reloading. This experience has been instrumental in 
 shaping my understanding of the connection between physics and computation; it helped me gain...<br/><img src='/images/experiments/Expctrl_schematic.png'>"
 collection: portfolio
+permalink: /projects-new/final-projects
 ---
 
 Since 2023, I have had the privilege of 
