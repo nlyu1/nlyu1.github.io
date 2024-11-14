@@ -5,7 +5,7 @@ collection: portfolio
 permalink: /projects-new/hypergraphProduct
 ---
 
-This final project explores the [hypergraph product of convolutional codes](/files/8371_final_project.pdf). It is part of a research project conducted at MIT's Shor group in collaboration with Zhiyang He, Andrey Boris Khesin, Jonathan Lu, and Peter Shor. The focus is on exploring quantum CSS codes through the lens of hypergraph products and convolutional code techniques.
+This final project explores the [hypergraph product of convolutional codes](/files/8371_final_project.pdf){:target="_blank"}. It is part of a research project conducted at MIT's Shor group in collaboration with Zhiyang He, Andrey Boris Khesin, Jonathan Lu, and Peter Shor. The focus is on exploring quantum CSS codes through the lens of hypergraph products and convolutional code techniques.
 
 Main contents of the final project paper: 
 

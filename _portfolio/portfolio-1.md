@@ -10,7 +10,7 @@ permalink: /projects-new/experiment
 ---
 
 Since 2023, I have had the privilege of 
-being part of the [Semeghini lab](https://semeghini.seas.harvard.edu/research-2/), 
+being part of the [Semeghini lab](https://semeghini.seas.harvard.edu/research-2/){:target="_blank"}, 
 which aims to  build a dual-species Rubidium-Ytterbium neutral atom array 
 with continuous reloading. This experience has been instrumental in 
 shaping my understanding of the connection between physics and computation; it helped me gain: 

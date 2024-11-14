@@ -1,6 +1,6 @@
 ---
 title: "Physics 151 (Fall 2023): KvN theory"
-excerpt: "The motivation for this [final project](/files/Phy_151_Final_Project.pdf){:target="_blank"} is the adjoint problem of Hamiltonian mechanics: understanding how the evolution of a subsystem can be used to infer properties of the composite system. The goal is  characterizing dynamical closures—the extension of subsystem dynamics into the Hamiltonian dynamics of a larger system. <u>This problem is not solved by this project</u>. However, the steps towards solving this problem provided insights into the relation between kinematics and dynamics, as well as the boundary between classical and quantum theories.<br/><img src='/images/coupled_harmonic_oscillator.png'>"
+excerpt: "The motivation for this [final project](/files/Phy_151_Final_Project.pdf) is the adjoint problem of Hamiltonian mechanics: understanding how the evolution of a subsystem can be used to infer properties of the composite system. The goal is  characterizing dynamical closures—the extension of subsystem dynamics into the Hamiltonian dynamics of a larger system. <u>This problem is not solved by this project</u>. However, the steps towards solving this problem provided insights into the relation between kinematics and dynamics, as well as the boundary between classical and quantum theories.<br/><img src='/images/coupled_harmonic_oscillator.png'>"
 collection: portfolio
 permalink: /projects-new/final-projects
 ---
