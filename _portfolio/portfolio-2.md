@@ -1,6 +1,7 @@
 ---
 title: "FreeAlgebra"
-
+excerpt: "[`FreeAlgebra`](https://github.com/nlyu1/FreeAlgebra){:target="_blank"} supports the differentiable manipulation of freely-generated algebras. 
+It is an offshoot project of the theoretical research on fermionic Gaussian computation and a nice implementation practice for the theory of finitely-generated algebras."
 collection: portfolio
 permalink: /projects-new/theory
 ---
