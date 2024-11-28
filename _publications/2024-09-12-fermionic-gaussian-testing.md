@@ -3,7 +3,7 @@ title: "Fermionic Gaussian Testing and Non-Gaussian Measures via Convolution"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-12-fermionic-gaussian-testing
-excerpt: 'This work defines fermionic quantum convolution and demonstrates the unique entropy-invariance of fermionic Gaussian states under convolution. _Click on the title to see details_.'
+excerpt: 'This work defines fermionic quantum convolution and demonstrates the unique entropy-invariance of fermionic Gaussian states under convolution. It demonstrates that many desirable classical statistical and information-theoretic properties of Gaussian states and convolution have counterparts in the fermionic quantum algebra. _Click on the section title to see details_.'
 date: 2024-09-12
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2409.08180'

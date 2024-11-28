@@ -2,11 +2,11 @@
 title: "Displaced Fermionic Gaussian States and their Classical Simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-08-displacedGaussian
-excerpt: 'This work extends fermionic Gaussian theory by studying the displaced (nonzero mean) case, resulting in slightly extended classical simulation, generalized fermionic convolution, and a more general understanding beyond super-selection rules. _Click on the title to see details_.'
-date: 2024-11-15
-venue: 'arXiv (to be published)'
-paperurl: '/files/DGSimulation.pdf'
+permalink: /publication/2024-11-28-displacedGaussian
+excerpt: 'This work extends fermionic Gaussian theory by studying the displaced (nonzero mean) case, resulting in extended matchgate classical simulation, wider applicability of fermionic convolution, and a more generalized understanding of fermionic Gaussian computation beyond the constraint of parity super-selection. _Click on the section title to see details_.'
+date: 2024-11-28
+venue: 'arXiv'
+paperurl: 'http://arxiv.org/abs/2411.18517'
 citation: 
 ---
 
@@ -14,7 +14,7 @@ This work is inspired by our previous work on [fermionic convolution](/publicati
 We found that fermionic convolution retains desirable properties *only for a subclass of special **even** quantum states*. 
 The even constraint also makes the math much easier work with, and previous works on fermionic Gaussian theory has predominantly focused on the zero-mean (even) case.  
 
-<span style="color: #6A8EAE;">Many important questions are not well understood about the general displaced Gaussian states.</span> We were originally motivated to answer them to obtain a general theory of fermionic convolution, but the study itself was bulky enough to warrant this separate work. **The following motivating questions are answered** in [this work](/files/DGSimulation.pdf):
+<span style="color: #6A8EAE;">Many important questions are not well understood about the general displaced Gaussian states.</span> We were originally motivated to answer them to obtain a general theory of fermionic convolution, but the study itself was bulky enough to warrant this separate work. **The following motivating questions are answered** in [this work](http://arxiv.org/abs/2411.18517):
 
 1. How to describe <u>the action of displaced fermionic unitaries</u>? 
 2. Zero-mean Gaussian states have a nice unified characterization from physical, computational, and Fourier perspectives. <u>Do displaced Gaussian states have the same coherent definition?</u>
