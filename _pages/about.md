@@ -13,7 +13,7 @@ Organization
 ======
 
 1. [Theoretical research](/publications): overview of my research publications. 
-2. [Experimental projects](/projects): summary of my hands-on experience in quantum experimentation. 
+2. [Experimental projects](/projects-new/experiment): summary of my hands-on experience in quantum experimentation. 
 3. [Notes and teaching materials](/talks): a collection of my notes from coursework, self-study, and teaching assistance; they offer a growing set of tools for tackling research problems. 
 4. [CV](/files/CV_versions/XLyu_Resume_1128.pdf): detailed contents can all be found on this site. 
 
