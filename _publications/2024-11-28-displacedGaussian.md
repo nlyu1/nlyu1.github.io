@@ -4,9 +4,9 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-11-28-displacedGaussian
 excerpt: 'This work extends fermionic Gaussian theory by studying the displaced (nonzero mean) case, resulting in extended matchgate classical simulation, wider applicability of fermionic convolution, and a more generalized understanding of fermionic Gaussian computation beyond the constraint of parity super-selection. _Click on the section title to see details_.'
-date: 2024-11-28
-venue: 'arXiv'
-paperurl: 'http://arxiv.org/abs/2411.18517'
+date: 2025-06-19
+venue: 'Journal of Physics A: Mathematical and Theoretical'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1751-8121/ade647'
 citation: 
 ---
 

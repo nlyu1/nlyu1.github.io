@@ -14,4 +14,5 @@ Highlights of the course:
 
 Nontrivial theorems:
 
-1. Placeholder. 
+1. Dolev-Strong protocol: synchronous Byzantine broadcast with Public Key Infrastructure (PKI) is solvable with arbitrary number of Byzantine nodes. 
+2. FLM (Fischer, Lynch, Merritt)-impossibility result: synchronous Byzantine broadcast with $f\geq n/3$ and no PKI is unsolvable. 
