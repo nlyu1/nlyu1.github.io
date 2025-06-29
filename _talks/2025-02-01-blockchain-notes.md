@@ -1,5 +1,5 @@
 ---
-title: "Blockchain"
+title: "Blockchain Foundations"
 collection: talks
 type: "Link"
 permalink: /knowledge-base/2025-02-01-blockchain-notes
