@@ -7,7 +7,9 @@ permalink: /knowledge-base/2024-12-01-classical-info-2024
 venue: "Online"
 ---
 
-Comprehensive [notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} (in progress) for reinforcement learning. Sources include: 
+Comprehensive [notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} (in progress) for reinforcement learning at introductory graduate level. 
+
+Sources include: 
 
 1. [Undergraduate textbook](@https://rlbook.adzc.ai/notation.html) from Harvard's CS 184. 
 2. [Youtube lecture series](@https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) from Stanford's CS234
