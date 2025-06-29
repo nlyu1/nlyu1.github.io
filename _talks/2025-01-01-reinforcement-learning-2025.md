@@ -2,8 +2,7 @@
 title: "Reinforcement Learning"
 collection: talks
 type: "Link"
-permalink: /knowledge-base/2024-12-01-classical-info-2024
-2025-01-01-reinforcement-learning-2025
+permalink: /knowledge-base/2025-01-01-reinforcement-learning-2025
 venue: "Online"
 ---
 
