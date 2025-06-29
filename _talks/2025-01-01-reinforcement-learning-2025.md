@@ -11,8 +11,8 @@ Comprehensive [notes](https://nlyu1.github.io/reinforcement-learning){:target="_
 
 Sources include: 
 
-1. [Undergraduate textbook](@https://rlbook.adzc.ai/notation.html) from Harvard's CS 184. 
-2. [Youtube lecture series](@https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) from Stanford's CS234
+1. [Undergraduate textbook](https://rlbook.adzc.ai/notation.html) from Harvard's CS 184. 
+2. [Youtube lecture series](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) from Stanford's CS234
 
 Highlights of the course: 
 
