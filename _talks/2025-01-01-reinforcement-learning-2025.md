@@ -6,7 +6,7 @@ permalink: /knowledge-base/2025-01-01-reinforcement-learning-2025
 venue: "Online"
 ---
 
-Comprehensive [notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} (in progress) for reinforcement learning at introductory graduate level. 
+[Self-learning notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} (in progress) for reinforcement learning at introductory graduate level. 
 
 Sources include: 
 
