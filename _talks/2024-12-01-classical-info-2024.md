@@ -6,7 +6,7 @@ permalink: /knowledge-base/2024-12-01-classical-info-2024
 venue: "Online"
 ---
 
-Comprehensive [course notes](https://nlyu1.github.io/classical-info-theory){:target="_blank"} (in progress) for MIT 6.370 *Information Theory: from Coding to Learning*, 
+Comprehensive [course notes](https://nlyu1.github.io/classical-info-theory){:target="_blank"} for MIT 6.370 *Information Theory: from Coding to Learning*, 
 (Fall 2024, Yury Polyanskiy)
 This is a very fast-paced, graduate-level treatment of modern information theory. 
 
