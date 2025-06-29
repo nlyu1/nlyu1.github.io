@@ -14,5 +14,4 @@ Highlights of the course:
 
 Nontrivial theorems:
 
-1. MDP analysis: contraction property of Bellman consistency and optimality operators. 
-2. Policy gradient: REINFORCE, performance difference lemma, policy performance difference bound. 
+1. Placeholder. 
