@@ -6,7 +6,7 @@ permalink: /knowledge-base/2025-01-01-reinforcement-learning-2025
 venue: "Online"
 ---
 
-[Self-learning notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} (in progress) for reinforcement learning at introductory graduate level. 
+[Self-learning notes](https://nlyu1.github.io/reinforcement-learning){:target="_blank"} for reinforcement learning at introductory graduate level. Covers classical MDP theory as well as modern toolkits applicable to relaxed assumptions and learning-based methods. 
 
 Sources include: 
 
