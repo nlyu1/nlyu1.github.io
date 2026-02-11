@@ -30,6 +30,8 @@ Education background
 
 My interest in the physicality of computation began with coursework in theoretical computer science, systems, and compiler design. This background inspired a shift toward physics, leading me to pursue the standard physics curriculum and, in addition, mathematical physics, information theory, and quantum computation. My background in these subjects (links to notes):
 
+- Diploma: [A.B. in Physics, Harvard University](/files/diploma.pdf)
+
 - <u>Physics</u>: [classical mechanics](/knowledge-base/2024-01-02-classical-mechanics-2024), [quantum mechanics](/knowledge-base/2023-12-01-quantum-mechanics-2-2023) (2 semesters), general relativity, E&M, thermodynamics, optics. 
 - <u>Computer science</u>: [theoretical computer science](/knowledge-base/2022-11-01-theoretical-computer-science-2022), functional programming, systems programming, compilers, etc. 
 - <u>Mathematics</u>: [abstract algebra](/knowledge-base/2023-01-01-algebra-2023) (self-study), topology (Math 55b), [functional analysis](/knowledge-base/2024-10-01-real-analysis-2024) (ongoing), [category theory](/knowledge-base/2023-10-01-category-theory-2023) (self-study), [basic differential geometry](/knowledge-base/2023-01-01-miscellany-2023) (self-study). 
