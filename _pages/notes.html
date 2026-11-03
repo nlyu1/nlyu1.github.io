@@ -20,5 +20,11 @@ and finally Bookdown in 2024.
 {% endif %}
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.title == "Machine Learning Theory" %}
+    {% comment %}
+      {% include archive-single-talk.html %}
+    {% endcomment %}
+  {% else %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
