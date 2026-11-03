@@ -1,5 +1,5 @@
 #set document(title: "Xingjian Nicholas Lyu - CV", author: "Xingjian Nicholas Lyu")
-#set page(paper: "us-letter", margin: (left: 72pt, right: 71.5pt, top: 72pt, bottom: 72pt))
+#set page(paper: "us-letter", margin: (left: 72pt, right: 71.5pt, top: 66pt, bottom: 66pt))
 #set text(font: "EB Garamond", size: 11pt, lang: "en", top-edge: 0.8em, bottom-edge: -0.2em)
 #set par(leading: 2.5pt, spacing: 0pt, justify: false)
 #set smartquote(enabled: false)
@@ -51,6 +51,9 @@ A.B. Degree in Physics with CS secondary. GPA: 3.92/4.0 \
     #blue("https://snakamoto404.github.io/blogs/machine-learning/ot-generative-3-diffusion/", [diffusion as MLE]).],
   [Volunteer lecturer for interns and new hires; personal notes for sample summer class on
     #blue("https://snakamoto404.github.io/blogs/machine-learning/options-heat-diffusion-quantum-mechanics/", [options pricing, heat diffusion, and quantum mechanics]).],
+  [Manage research gifts and ongoing collaborations with 
+    #blue("https://people.lids.mit.edu/yp/homepage/", [Polyanskiy lab]) (MIT) on inference quantization and
+    #blue("https://azanette.com/", [Zanette lab]) (CMU) on data-constrained post-training.],
 )
 
 #v(15pt)
